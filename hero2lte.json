@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
+			"maintainer": "Lost-Entrepreneur439",
+			"oem": "Samsung",
+			"device": "Galaxy S7 Edge",
 			"filename": "crDroidAndroid-13.0-20240316-hero2lte-v9.15.zip",
 			"download": "https://sourceforge.net/projects/crdroid/files/hero2lte/9.x/crDroidAndroid-13.0-20240316-hero2lte-v9.15.zip/download",
 			"timestamp": 1710629970,
-			"md5": "3f8a9bfdea190d19ca2c2ae8eb88b3ec",
-			"sha256": "39a8d6aa149a12799b35e80e7fdc0cd4d3dcefa00686fb3cf3a64d55766968bb",
-			"size": 877469848,
+			"md5": "39e5b75d716c846d707885c5ab77135e",
+			"sha256": "4806cceef6231a880d084bf116309cd4f007dfc03a6da5193ceb57799c05d83f",
+			"size": 877485177,
 			"version": "9.15",
-			"buildtype": "",
+			"buildtype": "Monthly",
 			"forum": "",
 			"gapps": "",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "",
+			"recovery": "https://dl.twrp.me/hero2lte/twrp-3.7.0_9-1-hero2lte.img",
 			"paypal": "",
 			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
+			"dt": "https://github.com/8890q/android_device_samsung_hero2lte/tree/lineage-20.0",
+			"common-dt": "https://github.com/8890q/android_device_samsung_universal8890-common/tree/lineage-20.0",
+			"kernel": "https://github.com/8890q/android_kernel_samsung_universal8890/tree/lineage-20.0"
 		}
 	]
 }
