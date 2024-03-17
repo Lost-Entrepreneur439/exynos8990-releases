@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20240316-hero2lte-v9.15.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/hero2lte/9.x/crDroidAndroid-13.0-20240316-hero2lte-v9.15.zip/download",
+			"timestamp": 1710629970,
+			"md5": "3f8a9bfdea190d19ca2c2ae8eb88b3ec",
+			"sha256": "39a8d6aa149a12799b35e80e7fdc0cd4d3dcefa00686fb3cf3a64d55766968bb",
+			"size": 877469848,
+			"version": "9.15",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
